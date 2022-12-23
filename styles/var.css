@@ -1,0 +1,21 @@
+:root {
+  /* Colors */
+  --base-primary-1: #264d6b;
+  --base-primary-2: #21a9e1;
+  --base-second-1: #f7f7f7;
+  --base-second-2: #ebf3fa;
+  --success: #219653;
+  --error: #eb5757;
+  --info: #00a2ff;
+  --warning: #f8eb46;
+  --dark-gray: #333333;
+  --black: #000000;
+  --white: #ffffff;
+  --btn-blue: #2675ec;
+  --bg-blue: #f5f9ff;
+  --swiper-theme-color: #616161;
+  --swiper-navigation-size: 18px;
+
+  --btn-radius: 8px;
+  --transition-all: all 0.2s ease-in;
+}
